@@ -32,13 +32,13 @@ A complete implementation of a **singly linked list** in C with an interactive m
 ### Compile
 
 ```bash
-gcc trylink.c -o linked_list
+gcc Singly_Linklist.c -o Singly_Linklist
 ```
 
 ### Run
 
 ```bash
-./linked_list
+./Singly_Linklist
 ```
 
 ---
@@ -104,5 +104,5 @@ Enter 11 to exit
 
 ## Author
 
-Harry — UPES, B.Tech CSE  
+Ujjawal Singh Solanki
 *Data Structures Lab — Singly Linked List*
