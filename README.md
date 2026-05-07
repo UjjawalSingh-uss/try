@@ -79,7 +79,7 @@ Enter 11 to exit
 
 ```
 .
-├── trylink.c    # Main source file
+├── Singly_Linklist.c    # Main source file
 └── README.md   # This file
 ```
 
